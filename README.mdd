@@ -1,0 +1,46 @@
+Ticket Reservation App
+
+Description (English)
+
+The Ticket Reservation App is a simple Java-based application that allows users to book bus tickets by providing essential information like name, age, distance, travel type, and seat number. It calculates the ticket price based on various criteria such as distance, travel type (one-way or round-trip), age discounts, and seat preferences. The app uses object-oriented principles, including classes for Bus, Ticket, and TicketReservationApp, to handle the reservation logic and display the ticket details.
+
+Features
+Book a ticket by entering personal details and travel preferences.
+Price calculation based on distance, travel type, and age discounts.
+Reserve a seat from the available seat list.
+Simple and interactive console-based user interface.
+Technologies Used
+Java
+Object-Oriented Programming (OOP)
+How to Run
+Clone this repository.
+
+git clone https://github.com/alperdvr/TicketReservationApp.git
+
+Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
+Run the TicketReservationApp.java file to start the application.
+Follow the on-screen instructions to book a ticket.
+
+
+Bilet Rezervasyon Uygulaması
+
+Açıklama (Türkçe)
+
+Bilet Rezervasyon Uygulaması, kullanıcılardan isim, yaş, mesafe, yolculuk tipi ve koltuk numarası gibi temel bilgileri alarak otobüs bileti rezervasyonu yapmalarını sağlayan basit bir Java uygulamasıdır. Fiyatı mesafe, yolculuk tipi (tek yön veya gidiş-dönüş), yaş indirimleri ve koltuk tercihine göre hesaplar. Uygulama, rezervasyon mantığını yönetmek ve bilet bilgilerini göstermek için Bus, Ticket ve TicketReservationApp sınıflarını içeren nesne yönelimli programlama (OOP) prensiplerini kullanır.
+
+Özellikler
+Kişisel bilgileri ve yolculuk tercihlerini girerek bilet rezervasyonu yapın.
+Mesafe, yolculuk tipi ve yaş indirimlerine dayalı fiyat hesaplama.
+Mevcut koltuk listesinden koltuk rezervasyonu yapın.
+Basit ve etkileşimli, konsol tabanlı kullanıcı arayüzü.
+Kullanılan Teknolojiler
+Java
+Nesne Yönelimli Programlama (OOP)
+Nasıl Çalıştırılır?
+Bu depoyu klonlayın.
+
+git clone https://github.com/alperdvr/TicketReservationApp.git
+
+Projeyi tercih ettiğiniz IDE'de (örneğin, IntelliJ IDEA, Eclipse) açın.
+TicketReservationApp.java dosyasını çalıştırarak uygulamayı başlatın.
+Bilet rezervasyonu yapmak için ekrandaki talimatları takip edin.
