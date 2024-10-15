@@ -15,7 +15,7 @@ Object-Oriented Programming (OOP)
 How to Run
 Clone this repository.
 
-git clone https://github.com/alperdvr/TicketReservationApp.git
+git clone https://github.com/alperdvr/MiniProjects
 
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 Run the TicketReservationApp.java file to start the application.
@@ -39,7 +39,7 @@ Nesne Yönelimli Programlama (OOP)
 Nasıl Çalıştırılır?
 Bu depoyu klonlayın.
 
-git clone https://github.com/alperdvr/TicketReservationApp.git
+git clone https://github.com/alperdvr/MiniProjects
 
 Projeyi tercih ettiğiniz IDE'de (örneğin, IntelliJ IDEA, Eclipse) açın.
 TicketReservationApp.java dosyasını çalıştırarak uygulamayı başlatın.
